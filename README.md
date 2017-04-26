@@ -14,7 +14,7 @@
 
 ### How to run (Node must be installed on your machine):
 ```
-git clone https://github.com/ostrander-nathan/grades
+git clone https://github.com/ostrander-nathan/grade
 npm install http-server -g
 http-server -p 8080
 ```
